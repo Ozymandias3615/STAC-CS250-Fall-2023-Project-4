@@ -1,3 +1,10 @@
+/*
+ * Author: Nanabanyin Abbiw
+ * Date: 11/12/2022
+ * Description: uses an EventClass that implements a stack
+ * of integers that contains only even numbers.
+*/
+
 #include <iostream>
 #include <stack>
 #include <unordered_map>
